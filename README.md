@@ -53,6 +53,6 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea)">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea">
   </a>
 </h1>
