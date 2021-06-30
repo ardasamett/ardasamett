@@ -17,9 +17,9 @@
 <h3><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Samet Arda Erdogan |  Data Enthusiast |  Turkey, Ankara <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h3>
 </div>
 <br>
-
 </h5>
 <br>
+<div align="center">
 <p><center>
   😃 I am a freshman computer engineer student and always eager to learn new topics and implement new ideas.
   <br>
@@ -27,7 +27,7 @@
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></center>
-
+</div>
 <hr>
 <h2 align="center">⚡ What I Know ⚡</h2>
 <br>
@@ -50,3 +50,5 @@
   <code><img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
 </p>
 <hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea)](https://git.io/typing-svg)
