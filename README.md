@@ -51,4 +51,8 @@
 </p>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea)">
+  </a>
+</h1>
