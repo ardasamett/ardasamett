@@ -50,6 +50,3 @@
   <code><img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
 </p>
 <hr>
-
-<center>
-<img title=":)" width="600" height="250" src="https://baslangicnoktasi.org/wp-content/uploads/2019/03/Data-has-a-better-idea.jpg"></center>
