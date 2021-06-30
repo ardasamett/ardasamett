@@ -52,4 +52,4 @@
 <hr>
 
 <center>
-<img title=":)"   src="https://baslangicnoktasi.org/wp-content/uploads/2019/03/Data-has-a-better-idea.jpg"></center>
+<img title=":)" width="600" height="250" src="https://baslangicnoktasi.org/wp-content/uploads/2019/03/Data-has-a-better-idea.jpg"></center>
