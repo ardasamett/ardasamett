@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋&center=true&size=30">
-  </a>
 </h1>
 
 
@@ -14,19 +12,19 @@
 
 <hr>
 <div align="center">
-<h3><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Samet Arda Erdogan |  Data Enthusiast |  Turkey, Ankara <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h3>
+<h3><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Samet Arda Erdogan |  Machine Learning Enthusiast |  Turkey <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h3>
 </div>
 <br>
 </h5>
 <br>
 <div align="center">
-<p><center>
+<p><b><center>
   😃 I am a freshman computer engineer student and always eager to learn new topics and implement new ideas.
   <br>
   🔬 My interests are Machine Learning Algorithms and Exploratory Data Analysis with Python.
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
-</p></center>
+</p></b></center>
 </div>
 <hr>
 <h2 align="center">⚡ What I Know ⚡</h2>
