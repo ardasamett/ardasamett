@@ -12,9 +12,8 @@
 
 <hr>
 <div align="center">
-<h3><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Samet Arda Erdogan |  Machine Learning Enthusiast |  Turkey <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h3>
+<h3><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Machine Learning Enthusiast | Turkey <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h3>
 </div>
-<br>
 </h5>
 <br>
 <div align="center">
@@ -27,30 +26,15 @@
 </p></b></center>
 </div>
 <hr>
-<h2 align="center">⚡ What I Know ⚡</h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="25" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></code>
-  <code><img title="Pandas" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></code>
-  <code><img title="Numpy" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png"></code>
-  <code><img title="Seaborn" height="25" src="https://svgshare.com/i/Ydq.svg"></code>
-  <code><img title="Scikit-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"></code>
-
-</p>
-<hr>
-
-<h2 align="center"><img title="Scikit-learn" height="35" src="https://media.giphy.com/media/UuZRzEoqTlV9yzooAZ/giphy.gif"> What I'm Learning <img title="Scikit-learn" height="35" src="https://media.giphy.com/media/UuZRzEoqTlV9yzooAZ/giphy.gif"></h2>
+<h2 align="center">⚡ My  Projects ⚡</h2>
 <br>
 
-<p align="center">
-  <code><img title="Flask" height="25" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png"></code>
-  <code><img title="Heroku" height="25" src="https://blog.talenox.com/wp-content/uploads/2015/01/Heroku_logo.svg.png"></code>
-  <code><img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
-</p>
+* [ Students Performance in Exams Analysis 📈](https://github.com/ardasamett/Students-Performance-In-Exams)
+* [ Stroke Prediction 🔬](https://github.com/ardasamett/Stroke-Prediction)
+* [ Machine Learning Model Deployment Demo w/ Flask + Heroku ⚙️](https://github.com/ardasamett/ML-Model-Deployment)
+
 <hr>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea">
-  </a>
 </h1>
