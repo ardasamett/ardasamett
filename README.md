@@ -28,9 +28,10 @@
 <h2 align="center">⚡ My  Projects ⚡</h2>
 <br>
 
-* [ Students Performance in Exams Analysis 📈](https://github.com/ardasamett/Students-Performance-In-Exams)
-* [ Stroke Prediction 🔬](https://github.com/ardasamett/Stroke-Prediction)
-* [ Machine Learning Model Deployment Demo w/ Flask + Heroku ⚙️](https://github.com/ardasamett/ML-Model-Deployment)
+* [ Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams)
+* [ Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction)
+* [ Machine Learning Model Deployment Demo w/ Flask + Heroku ](https://github.com/ardasamett/ML-Model-Deployment)
+* [ NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis)
 
 
 
