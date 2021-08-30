@@ -26,7 +26,7 @@
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
 </div>
-<hr> <br>
+ <br>
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
@@ -37,7 +37,7 @@
 
 
 <br>
-<hr>
+
 
 <h2 align="center">⚡ Technologies ⚡</h2>
 <br>
