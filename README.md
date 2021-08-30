@@ -1,12 +1,14 @@
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋&center=true&size=30">
-</h1>
+</p>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/ardasamet" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"> LinkedIN</a></code>
-  <code><a href="https://leetcode.com/ardasamet/" title="Leetcode Profile"><img width="22" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"> LeetCode</a></code>
-  <code><a href="https://www.kaggle.com/sametardaerdogan" title="Kaggle"><img width="22" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png"> Kaggle</a></code>
+  
+  <code><a href="https://www.linkedin.com/in/ardasamet" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+  <code><a href="https://leetcode.com/ardasamet/" title="Leetcode Profile"><img  src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a></code>
+  <code><a href="https://www.kaggle.com/sametardaerdogan" title="Kaggle"><img  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a></code>
+  <code><a href="mailto:sametarda.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 </h5>
 
 <hr>
@@ -17,15 +19,15 @@
 <br>
 <div align="center">
 <p><b><center>
-  😃 I am a freshman computer engineer student and always eager to learn new topics and implement new ideas.
+   I am a 2nd year computer engineering student at the University of Turkish Aeronautical Association.
   <br>
-  🔬 My interests are Machine Learning Algorithms and Exploratory Data Analysis with Python.
+  As a Self-Taught Machine Learning Engineer, I am always eager to learn new topics and implement new ideas. I love all things data-related. Specifically, my interests are "Machine Learning Algorithms and Optimization" and "Exploratory Data Analysis".
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
 </div>
-<hr>
-<h2 align="center">⚡ My  Projects ⚡</h2>
+<hr> <br>
+<h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
 * [ Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams)
@@ -34,9 +36,27 @@
 * [ NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis)
 
 
-
+<br>
 <hr>
 
-<h1 align="center">
+<h2 align="center">⚡ Technologies ⚡</h2>
+<br>
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+
+<br> <br>
+
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Data+has+a+better+idea">
-</h1>
+</p>
