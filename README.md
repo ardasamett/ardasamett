@@ -34,6 +34,7 @@
 * [ Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction)
 * [ Machine Learning Model Deployment Demo w/ Flask + Heroku ](https://github.com/ardasamett/ML-Model-Deployment)
 * [ NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis)
+* [ Date-Fruit Dataset Classification | Tuned XGBoost ](https://github.com/ardasamett/Date-Fruit-Classification-Tuned-XGBoost)
 
 
 <br>
