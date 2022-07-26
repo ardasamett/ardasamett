@@ -31,10 +31,12 @@
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
-* [ Dockerize & Deploy Machine Learning Model ](https://github.com/ardasamett/Docker-Deploy-ML-Model)
-* [ Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams)
-* [ Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction)
-* [ Machine Learning Model Deployment Demo w/ Flask + Heroku ](https://github.com/ardasamett/ML-Model-Deployment)
+* [DOCKER + DEPLOY: Dockerize & Deploy Machine Learning Model ](https://github.com/ardasamett/Docker-Deploy-ML-Model)
+* [DATA ANALYSIS: Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams)
+* [MACHINE LEARNING: Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction)
+* [MACHINE LEARNING + DEPLOY: Machine Learning Model Deployment Demo w/ Flask + Heroku ](https://github.com/ardasamett/ML-Model-Deployment)
+* [NLP: NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis)
+* [MACHINE LEARNING: Date-Fruit Dataset Classification | Tuned XGBoost ](https://github.com/ardasamett/Date-Fruit-Classification-Tuned-XGBoost)
 
 <br>
 
