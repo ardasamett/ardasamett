@@ -27,15 +27,47 @@
 </p></b></center>
 </div>
  <br>
-<h2 align="center">⚡ Projects ⚡</h2>
+ 
+ 
+
+<h2 align="center">⚡ Technologies ⚡</h2>
 <br>
 
-* [Dockerize & Deploy Machine Learning Model](https://github.com/ardasamett/Docker-Deploy-ML-Model)
-* [ Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams)
-* [ Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction)
-* [ Machine Learning Model Deployment Demo w/ Flask + Heroku ](https://github.com/ardasamett/ML-Model-Deployment)
-* [ NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis)
-* [ Date-Fruit Dataset Classification | Tuned XGBoost ](https://github.com/ardasamett/Date-Fruit-Classification-Tuned-XGBoost)
+### Operating Systems
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Programming Languages
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+### Libraries
+
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Cloud
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Database
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Other Tech
+![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <br>
