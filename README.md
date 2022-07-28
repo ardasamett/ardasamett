@@ -19,9 +19,7 @@
 <br>
 <div align="center">
 <p><b><center>
-   I am a 2nd year computer engineering student at the University of Turkish Aeronautical Association.
-  <br>
-  As a Self-Taught Machine Learning Engineer, I am always eager to learn new topics and implement new ideas. I love all things data-related. Specifically, my interests are "Machine Learning Algorithms and Optimization" and "Exploratory Data Analysis".
+  As a Self-Taught Data Scientist, I am always eager to learn new topics and implement new ideas. I love all things data-related. Specifically, my interests are "Machine/Deep Learning" and "MLOps".
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
