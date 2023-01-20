@@ -13,13 +13,13 @@
 
 <hr>
 <div align="center">
-<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Machine Learning Enthusiast | Turkey <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h2>
+<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Data Science Enthusiast <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h2>
 </div>
 
 <br>
 <div align="center">
 <p><b><center>
-  As a Self-Taught Data Scientist, I am always eager to learn new topics and implement new ideas. I love all things data-related. Specifically, my interests are "Machine/Deep Learning" and "MLOps".
+  As a Self-Taught Data Scientist, I am always eager to learn new topics and implement new ideas. I love all things data-related. Specifically, my interests are Data Analytics and Machine Learning.
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
@@ -29,12 +29,12 @@
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
-* [Dockerize & Deploy Machine Learning Model ](https://github.com/ardasamett/Docker-Deploy-ML-Model) (DOCKER + DEPLOY)
-* [Machine Learning Model Deployment Demo w/ Flask + Heroku ](https://github.com/ardasamett/ML-Model-Deployment) (MACHINE LEARNING + DEPLOY)
-* [Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams) (DATA ANALYSIS)
-* [Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction) (MACHINE LEARNING)
-* [Date-Fruit Dataset Classification | Tuned XGBoost ](https://github.com/ardasamett/Date-Fruit-Classification-Tuned-XGBoost) (MACHINE LEARNING) 
-* [NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis) (NLP)
+* [Dockerize & Deploy Machine Learning Model ](https://github.com/ardasamett/Docker-Deploy-ML-Model) 
+* [Machine Learning Model Deployment ](https://github.com/ardasamett/ML-Model-Deployment)
+* [Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams) 
+* [Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction) 
+* [Date-Fruit Classification ](https://github.com/ardasamett/Date-Fruit-Classification-Tuned-XGBoost)
+* [NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis) 
 
 <br>
 
@@ -66,11 +66,13 @@
 
 ### Cloud
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Database
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Other Tech
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
