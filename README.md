@@ -19,7 +19,7 @@
 <br>
 <div align="center">
 <p><b><center>
-  Loves being active in communities, rock music lover, and self-taught learner. <u>Experienced</u> in data analytics. <u>Skilled</u> in machine learning, data science, and deep learning. Curiosity and passion about learning new technologies and implementing new ideas
+  Loves being active in communities, rock music lover, and self-taught learner. **Experienced** in data analytics. **Skilled** in machine learning, data science, and deep learning. Curiosity and passion about learning new technologies and implementing new ideas
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
@@ -62,7 +62,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Cloud
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
