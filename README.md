@@ -13,13 +13,13 @@
 
 <hr>
 <div align="center">
-<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"> Data Science Enthusiast <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/man_emoji-modifier-fitzpatrick-type-3_1f468-1f3fc_1f3fc.png" width="25"></h2>
+<h2>👨‍💻  Data Science Enthusiast  👨‍💻</h2>
 </div>
 
 <br>
 <div align="center">
 <p><b><center>
-  As a Self-Taught Data Scientist, I am always eager to learn new topics and implement new ideas. I love all things data-related. Specifically, my interests are Data Analytics and Machine Learning.
+  Loves being active in communities, rock music lover, and self-taught learner. <u>Experienced</u> in data analytics. <u>Skilled</u> in machine learning, data science, and deep learning. Curiosity and passion about learning new technologies and implementing new ideas
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
@@ -29,6 +29,7 @@
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
+* [byMood (AI supported movie and book recommendation system)](https://github.com/ardasamett/byMood) 
 * [Dockerize & Deploy Machine Learning Model ](https://github.com/ardasamett/Docker-Deploy-ML-Model) 
 * [Machine Learning Model Deployment ](https://github.com/ardasamett/ML-Model-Deployment)
 * [Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams) 
@@ -42,13 +43,11 @@
 <h2 align="center">⚡ Technologies ⚡</h2>
 <br>
 
-### Operating Systems
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Programming Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 
@@ -63,6 +62,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 
 ### Cloud
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -79,6 +79,7 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white")
 
 
 
