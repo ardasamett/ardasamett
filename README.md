@@ -13,7 +13,7 @@
 
 <hr>
 <div align="center">
-<h2>👨‍💻  Data Science Enthusiast  👨‍💻</h2>
+<h2>👨‍💻  Data Analyst | Data Science Enthusiast 👨‍💻</h2>
 </div>
 
 <br>
