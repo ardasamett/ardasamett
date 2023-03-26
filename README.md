@@ -19,7 +19,7 @@
 <br>
 <div align="center">
 <p><b><center>
-  Loves being active in communities, rock music lover, and self-taught learner. **Experienced** in data analytics. **Skilled** in machine learning, data science, and deep learning. Curiosity and passion about learning new technologies and implementing new ideas
+  Loves being active in communities, rock music lover, and self-taught learner. Experienced in data analytics. Skilled in machine learning, data science, and deep learning. Curiosity and passion about learning new technologies and implementing new ideas
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
