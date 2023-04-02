@@ -29,13 +29,14 @@
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
-* [byMood (AI supported movie and book recommendation system)](https://github.com/ardasamett/byMood) 
-* [Dockerize & Deploy Machine Learning Model ](https://github.com/ardasamett/Docker-Deploy-ML-Model) 
-* [Machine Learning Model Deployment ](https://github.com/ardasamett/ML-Model-Deployment)
+* ⭐ [byMood (AI supported recommendation system)](https://github.com/ardasamett/byMood) 
+* [CRM Analytics](https://github.com/ardasamett/CRM-Analysis) 
+* [NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis) 
 * [Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams) 
 * [Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction) 
 * [Date-Fruit Classification ](https://github.com/ardasamett/Date-Fruit-Classification-Tuned-XGBoost)
-* [NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis) 
+* [Dockerized Machine Learning Model Deployment](https://github.com/ardasamett/Docker-Deploy-ML-Model) 
+* [Machine Learning Model Deployment ](https://github.com/ardasamett/ML-Model-Deployment)
 
 <br>
 
