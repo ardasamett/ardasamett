@@ -32,6 +32,7 @@
 * ⭐ [byMood (AI supported recommendation system)](https://github.com/ardasamett/byMood) 
 * [Recommender Systems](https://github.com/ardasamett/Recommender-Systems)
 * [CRM Analytics](https://github.com/ardasamett/CRM-Analysis) 
+* [A/B Test](https://github.com/ardasamett/AB-Test)
 * [NLP: Sentiment Analysis ](https://github.com/ardasamett/NLP-Sentiment-Analysis) 
 * [Students Performance in Exams Analysis ](https://github.com/ardasamett/Students-Performance-In-Exams) 
 * [Stroke Prediction ](https://github.com/ardasamett/Stroke-Prediction) 
