@@ -13,13 +13,13 @@
 
 <hr>
 <div align="center">
-<h2>👨‍💻  Data Analyst | Data Science Enthusiast 👨‍💻</h2>
+<h2>👨‍💻  Data Scientist | Gen AI Enthusiast 👨‍💻</h2>
 </div>
 
 <br>
 <div align="center">
 <p><b><center>
-  Loves being active in communities, rock music lover, and self-taught learner. Experienced in data analytics. Skilled in machine learning, data science, and deep learning. Curiosity and passion about learning new technologies and implementing new ideas
+Passionate community-minded, rock music enthusiast, self-taught learner, experienced in data analytics, data science and Gen AI, currently exploring MLOps, driven by curiosity to implement innovative tech solutions.
   <br><br>
   📫 How to reach me: <a href="mailto: sametarda.dev@gmail.com">sametarda.dev@gmail.com</a>
 </p></b></center>
@@ -29,7 +29,8 @@
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
-* ⭐ [byMood (AI supported recommendation system)](https://github.com/ardasamett/byMood) 
+* [byMood (AI supported recommendation system)](https://github.com/ardasamett/byMood)
+* [Weather Data Collector](https://github.com/ardasamett/WeatherDataCollector)
 * [Recommender Systems](https://github.com/ardasamett/Recommender-Systems)
 * [CRM Analytics](https://github.com/ardasamett/CRM-Analysis) 
 * [A/B Test](https://github.com/ardasamett/AB-Test)
