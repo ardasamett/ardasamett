@@ -13,7 +13,7 @@
 
 <hr>
 <div align="center">
-<h2>👨‍💻  Data Scientist | Gen AI Enthusiast 👨‍💻</h2>
+<h2>👨‍💻  Generative AI Specialist 👨‍💻</h2>
 </div>
 
 <br>
