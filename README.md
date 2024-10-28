@@ -29,6 +29,8 @@ Passionate community-minded, rock music enthusiast, self-taught learner, experie
 <h2 align="center">⚡ Projects ⚡</h2>
 <br>
 
+* [Smart Shop AI (Personalized product recommendations using user behavior)](https://github.com/ardasamett/SmartShop-AI)
+* [Text to SQL AI Agent](https://github.com/ardasamett/Text2SQL_Agent-llamaindex)
 * [byMood (AI supported recommendation system)](https://github.com/ardasamett/byMood)
 * [Weather Data Collector](https://github.com/ardasamett/WeatherDataCollector)
 * [Recommender Systems](https://github.com/ardasamett/Recommender-Systems)
